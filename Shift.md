@@ -1,6 +1,8 @@
-হ্যাঁ। যেহেতু তুমি **JavaScript + কিছু C/C++ already জানো**, Python শেখার সবচেয়ে fast way হবে syntax আলাদা করে মুখস্থ না করে **তোমার জানা language-এর সাথে compare করে শেখা**।
+Learning python  in the best way swaping from javascript 
 
-তোমার দেওয়া ৮টা topic-ই cover করব। তবে Python-এর কিছু জিনিস তোমার list-এর চেয়ে একটু আলাদা:
+
+
+ ৮টা topic-ই cover করব। তবে Python-এর কিছু জিনিস list-এর চেয়ে একটু আলাদা:
 
 * `switch-case` → Python-এ `match-case`
 * `do-while` → Python-এ নেই
@@ -10,7 +12,7 @@
 * Pointer → Python-এ C/C++-এর মতো explicit pointer নেই
 * `===` → Python-এ নেই; `==` value comparison, `is` identity comparison
 
-চলো **Python Crash Course — JavaScript/C++ developer-এর জন্য** হিসেবে শুরু করি।
+**Python Crash Course — JavaScript/C++ developer-এর জন্য** হিসেবে শুরু করি।
 
 ---
 
