@@ -12,14 +12,19 @@
 # for i in range(4,90,2):
 #     print(i)
 #
-# numbers = [10, 20, 30, 40]
-# print(numbers)
-# numbers.append(50)
-# print(numbers)
-# numbers.pop();
-# print(numbers)
-# numbers.pop(1)
-# print(numbers)
-# numbers.remove(10)
-# print(numbers)
+numbers = [10, 20, 30, 40]
+print(numbers)
+numbers.append(50)
+print(numbers)
+numbers.pop();
+print(numbers)
+numbers.pop(1)
+print(numbers)
+numbers.remove(10)
+print(numbers)
 
+
+text = "shakib abdullah alhassan"
+
+
+print(text.capitalize())
